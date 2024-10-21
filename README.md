@@ -107,6 +107,8 @@ Here's a comprehensive view of the project's directory tree:
 ```
 ConversAI/
 ├── app.py                      # Main application file
+├── config.ini                  # Configuration file
+├── params.yaml                 # Prompts for the application
 ├── requirements.txt            # Required Python packages
 ├── src/                        # Source code directory
 │   ├── components/             # Component modules
@@ -116,17 +118,14 @@ ConversAI/
 │   │   │   └── youtubeLoader.py
 │   │   ├── rag/                # Retrieval-Augmented Generation components
 │   │   │   └── RAG.py
-│   │   ├── utils/              # Utility functions and classes
-│   │   │   ├── functions.py
-│   │   │   ├── exceptions.py
-│   │   │   └── logging.py
 │   │   └── vectors/            # Vector storage and processing
 │   │       └── vectorstore.py
+│   ├── utils/                  # Utility functions and classes
+│   │   ├── exceptions.py
+│   │   ├── functions.py              
+│   │   ├── logging.py
 │   ├── pipelines/              # Pipeline logic for data processing
 │   │   └── completePipeline.py
-│   └── settings/               # Configuration files
-│       ├── config.ini
-│       └── params.yaml
 └── README.md                   # Project documentation
 ```
 
