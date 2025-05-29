@@ -157,15 +157,7 @@ Sure! Here’s an updated section to include your contributions and acknowledgme
 - **Github**: [RauhanAhmed](https://github.com/RauhanAhmed)
 - **LinkedIn**: [Rauhan Ahmed](https://www.linkedin.com/in/rauhan-ahmed)
 - **Twitter**: [@ahmed_rauh46040](https://x.com/ahmed_rauh46040)
-- **Portfolio**: [rauhanahmed.org](https://rauhanahmed.org)
-
-## Acknowledgments
-
-This project was developed while working as an AI Engineer at [Tech Consulting Partners](https://www.techconsultingpartners.com). I built ConversAI from scratch, implementing advanced document retrieval methods, reranking techniques, hybrid search methodologies, multiple integrations with large language models (LLMs), and lots of other complex functionalities. 
-
-The backend includes user management features, sophisticated data storage solutions (including S3 storage management), database management, and vector databases. The deployment strategy leverages robust APIs, Docker containers, CI/CD practices, model monitoring, and cloud platform deployment. 
-
-This open-source prototype serves as a stepping stone towards a more comprehensive project aimed at public good, showcasing the immense potential of advanced AI technologies in everyday applications. I extend my heartfelt gratitude to Tech Consulting Partners for entrusting me with this initiative and for their invaluable support throughout the development process.
+- **Portfolio**: [rauhanahmed.in](https://rauhanahmed.in)
 
 ## License
 
